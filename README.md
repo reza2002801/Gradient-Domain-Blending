@@ -14,15 +14,15 @@ Gradient-Domain Blending is an image processing technique that blends two images
 This repository contains the code for implementing Gradient-Domain Blending using Python and OpenCV.
 
 <p align="center">
-  <img src="res05.jpg" alt="Alt Text" />
+  <img src="res05.jpg" alt="Alt Text" width="350"  />
    <br>
    this is the image of first woman
 <br>
-   <img src="res06.jpg" alt="Alt Text" />
+   <img src="res06.jpg" alt="Alt Text" width="500" />
 <br>
    this is the image of second woman
 <br>
-   <img src="res07.jpg" alt="Alt Text" />
+   <img src="res07.jpg" alt="Alt Text" width="500" />
 <br>
 this is the blended image as you can see the boundaries are not visible
 </p>
